@@ -1,1 +1,2 @@
  I have taken a bitwise class where we added work to github, but it was a solo project and it was only one commit. So im fairly certain I know very little about the use of git.
+
